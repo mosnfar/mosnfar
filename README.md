@@ -1,4 +1,6 @@
-👋 Hi, I'm Mohsen a Product Designer and sometimes dabbling in code 😊
+# 👋 Hi, I'm Mohsen
+
+A Product Designer and sometimes dabbling in code 😊
 
 <!---
 mosnfar/mosnfar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

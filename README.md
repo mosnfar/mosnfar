@@ -5,7 +5,7 @@ Here I share my contribution and my experiences 💡
 
 You can find me on:
 
-[Blog](https://forge.mosn.me?ref=ghr) | [Youtube](https://youtube.com/@mosnfar) | [Medium](https://medium.com/mosnfar)
+[Blog](https://forge.mosn.me?ref=ghr) | [Youtube](https://youtube.com/@itsmosn) | [Medium](https://medium.com/mosnfar)
 
 ---
 

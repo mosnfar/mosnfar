@@ -3,6 +3,10 @@
 A Product Designer who sometimes dabbling in code 😊  
 Here I share my contribution and my experiences 💡
 
+You can find me on:
+
+[Blog](https://forge.mosn.me?ref=ghr) | [Youtube](https://youtube.com/@mosnfar) | [Medium](https://medium.com/mosnfar)
+
 ---
 
 ## Summary

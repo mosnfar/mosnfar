@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Mohsen
+# 👋 Hi, This's Mohsen
 
-A Product Designer who sometimes dabbling in code 😊  
-Here I share my contribution and my experiences 💡
+A Product Designer who sometimes dabbling in code 😊
+I love creating new things and here I share my contribution and creations 💡
 
 You can find me on:
-[Blog](https://forge.mosn.me?ref=ghr) | [Youtube](https://youtube.com/@itsmosn) | [Medium](https://medium.com/mosnfar)
+[Blog](https://forge.mosn.me?ref=ghr) | [Youtube](https://www.youtube.com/@its_the_forge) | [Medium](https://medium.com/mosnfar)
 
 
-I Code: Python | JavaScript | MicroPython
+I Love Coding in **Python** | **JavaScript** | **MicroPython**
 
 ---
 

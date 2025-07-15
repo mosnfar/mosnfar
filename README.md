@@ -11,6 +11,8 @@ I Love Coding in **Python** | **JavaScript** | **MicroPython**
 
 ---
 
+<!---
+
 ## Summary
 
 <p align="justify">
@@ -19,6 +21,8 @@ I Love Coding in **Python** | **JavaScript** | **MicroPython**
 <img src="https://raw.githubusercontent.com/mosnfar/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/mosnfar/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p> 
+
+--->
  
 <!---
 mosnfar/mosnfar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

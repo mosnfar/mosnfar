@@ -1,8 +1,8 @@
 # 👋 Hi, This's Mohsen
 
 A Product Designer who sometimes dabbling in code 😊  
-I love creating new things and here I share my contribution and creations 💡
-I’m very into to learning Quantum computers, AI Hardwares, and Cutting-Edge Tech.
+I love creating new things and here I share my contribution and creations 💡  
+I’m very into learning Quantum computers, AI Hardwares, and Cutting-Edge Tech.
 
 You can find me on:
 [Blog](https://tinkerer.mosn.me?ref=ghr) | [Youtube](https://www.youtube.com/@its.tinkerer) | [Medium](https://medium.com/mosnfar)
